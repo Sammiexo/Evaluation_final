@@ -1,6 +1,4 @@
-#include <stdio.h>
 
-int main() {
     
     
     printf("Enter the second number: ");
